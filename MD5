@@ -1,0 +1,10 @@
+5dae5103eedb942bfcf2a8183ef4299b *DESCRIPTION
+bb73afa57c103113100b0e9c3396eabb *NAMESPACE
+0cdf4b41c06aecbd36f2f103ed96cb08 *R/filters.R
+ded405c998f3328248b5e915a7859457 *R/test_data_generators.R
+7d7bb10e27a56559466a10589da3b0f1 *man/Hamming.Rd
+b5dc808d0abd4e8b60978b1f3a9a55d7 *man/Hann.Rd
+e651d35c5adb5faf234b7a32e75aa18b *man/MA.Rd
+32df16b6afd6c026cf43db31b9c69823 *man/RMS.Rd
+7912bd1294d073b0342931378004faa4 *man/sine.Rd
+987ea18ba41c54964189d6d30858a3ef *man/test_data.Rd
